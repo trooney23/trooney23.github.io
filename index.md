@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Website
 
 You can use the [editor on GitHub](https://github.com/trooney23/trooney23.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
